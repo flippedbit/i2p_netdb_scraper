@@ -1,0 +1,5 @@
+Author: Michael Straughan
+Date: 16/05/2013
+Description: scrapes all files in /i2p/netDb for router IPs and remote ports for trivial recon
+Usage: i2p_netdb.py <i2p_netdb_path>
+Example: i2p_netdb.py %AppData%\i2p\netdb
